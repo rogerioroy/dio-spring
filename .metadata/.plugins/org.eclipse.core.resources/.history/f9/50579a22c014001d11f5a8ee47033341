@@ -1,0 +1,5 @@
+package com.diospring.entity;
+
+public class Product {
+
+}

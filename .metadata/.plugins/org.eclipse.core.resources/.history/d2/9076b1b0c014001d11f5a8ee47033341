@@ -1,0 +1,5 @@
+package com.diospring.repository;
+
+public interface ProductRepository {
+
+}

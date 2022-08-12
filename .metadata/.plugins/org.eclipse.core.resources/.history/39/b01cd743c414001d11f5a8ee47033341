@@ -1,0 +1,5 @@
+package com.diospring.controller;
+
+public class ProductController {
+
+}
